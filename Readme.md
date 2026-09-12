@@ -24,3 +24,5 @@ The project covers:
 - Forecasting Customer Lifetime Value (CLV) using probabilistic models
 - Evaluating marketing campaigns and ROI
 - Building automated marketing dashboards
+
+- Note: CSV files saved after every step in the analysis
